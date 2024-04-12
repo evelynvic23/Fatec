@@ -34,9 +34,11 @@
         </select>
 
         <br>
-            <button type="submit" value="Calcular">
+        <br>
+            <button type="submit" value="Calcular" role="button" class="button-name">
                 Calcular
             </button>
+
 
             </form>
 
@@ -53,6 +55,7 @@
      <form action="tabuada.php" method="get">
         <br>
         <br>
+        <h2>Tabuada</h2>
          <label for="">Selecione a tabuada</label>
         <select name="tabuada" id="">
             <option value="1">1</option>
@@ -68,7 +71,7 @@
         </select>
         <br>
 
-        <button type="submit" value="tabuada">
+        <button type="submit" value="tabuada" role="button" class="button-name">
                 Calcular
             </button>
 
