@@ -7,7 +7,8 @@
     <title>Document</title>
     <style>
     body{
-        background-color: #ffcbff;
+        background: rgb(175,99,165);
+background: linear-gradient(90deg, rgba(175,99,165,1) 0%, rgba(172,140,209,1) 50%, rgba(175,99,165,1) 100%);
         margin: 5%;
     }
     input {
