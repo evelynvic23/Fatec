@@ -1,4 +1,8 @@
+
+
 <?php
+
+include "body.php";
 
 $tabuada = $_GET["tabuada"];
 
