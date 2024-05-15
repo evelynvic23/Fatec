@@ -5,7 +5,7 @@
 
 
 
-  <div class="card" style="width:400px">
+  <div class="card" style="width:500px">
     <img class="card-img-top" src="imagens/alunos.png" alt="Card image" style="width:100%">
     <div class="card-body">
      

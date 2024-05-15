@@ -21,6 +21,7 @@
     left: 0; 
     right: 0;
     margin-top: 5%;
+    width: 40%;
 }
 .card-body{
     display: flex;
@@ -78,4 +79,7 @@ label{
         height: 80px; /* Ajuste a altura para telas menores */
         padding-top: 10px; /* Ajuste o espaçamento interno para telas menores */
     }
+   
 }
+
+

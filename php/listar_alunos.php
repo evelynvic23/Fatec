@@ -25,7 +25,7 @@
 
 <!-- Tabela para listar os dados -->
 
-<table>
+<table class="table table-striped">
     <!-- Cabeçalho da tabela -->
     <thead>
         <!-- Linha da tabela -->
